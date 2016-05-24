@@ -1,0 +1,63 @@
+/* css file */
+
+body{
+
+	background-image: url("../images/oreos.jpg");
+	text-align: center;
+
+	font-family: 'PT Sans Narrow', cursive;
+	font-size: 14pt;
+	font-weight: bolder;
+
+}
+
+h1{
+	text-align: center;
+
+}
+h2 {
+
+	background-color: purple;
+}
+
+.transparent_b {
+	background: rgba(102,0,255,0.3);
+	margin-left: 20%;
+	padding-top: 5%;
+	padding-left: 10%;
+}
+
+p{
+	font-family: 'PT Sans Narrow', cursive;
+	color: black;
+	margin-left: 10%;
+	margin-right: 10%;
+	background-color: rgba( 255, 255, 0, 0.5);
+
+}
+
+.goLeft{
+	border: 4px dotted black;
+	float: left;
+}
+
+.goRight{
+	border: 4px dotted black;
+	float: right;
+}
+
+#para1{
+	height: 160px;
+}
+
+#para2{
+	height: 195px;
+}
+
+#para3{
+	height: 260px;
+}
+
+#para4{
+	height: 120px;
+}
